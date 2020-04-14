@@ -9,7 +9,6 @@
 	`gatsby-plugin-offline`,
 	`gatsby-plugin-netlify-cache`,
 	`gatsby-plugin-dark-mode`,
-	`gatsby-plugin-no-javascript`,
 	`gatsby-plugin-preact`,
 	
 
